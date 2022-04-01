@@ -82,7 +82,7 @@ a {
 >>>>>>>>>>>>>>>>>>>>>>>> */
 header {
     height: 100vh;
-    background-image: url(../media/background-mouse.png);
+    background-image: url(./media/background-mouse.png);
     background-position: bottom;
     background-size: cover;
     overflow-X: hidden;
@@ -322,7 +322,7 @@ nav {
 
 #skill{
     /* overflow-x: hidden; */
-    background-image: url(../media/skill-bg.png);
+    background-image: url(./media/skill-bg.png);
     background-position: top;
     background-size: cover;
     width: 100%;
@@ -600,7 +600,7 @@ footer .top-footer a i {
     background-color: #FEFDFF;
     height: 87vh;
     background: linear-gradient(180deg, hsla(0, 0%, 100%, .92), hsla(0, 0%, 100%, .92)),
-    url(../media/contact-page.svg);
+    url(./media/contact-page.svg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
